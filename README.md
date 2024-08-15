@@ -1,5 +1,6 @@
 # DU 모바일 프로그래밍 앱 개발 프로젝트 "효도르 부탁해"
-> 효도하는 것이 부담으로 다가오기보다 남들에게 기분 좋게 자랑 할 수 있는 사회가 될 것으로 기대합니다. <br/> Made By DU HyodorBros.(SEVEN) <br/> ![image](https://github.com/user-attachments/assets/d8b1d674-202f-47c5-9b7a-42baff27c7d6)
+> 효도하는 것이 부담으로 다가오기보다 남들에게 기분 좋게 자랑 할 수 있는 사회가 될 것으로 기대합니다. <br/> Made By DU HyodorBros.(SEVEN) <br/> ![image](https://github.com/user-attachments/assets/e600c5ee-0503-438f-93e6-49d93e96e0d6)
+
 > 
 
 ## 조원 소개
