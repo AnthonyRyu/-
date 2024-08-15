@@ -1,5 +1,5 @@
 # DU 모바일 프로그래밍 앱 개발 프로젝트 "효도르 부탁해"
-> 효도하는 것이 부담으로 다가오기보다 남들에게 기분 좋게 자랑 할 수 있는 사회가 될 것으로 기대합니다. <br/> Made By HyodorBros.(SEVEN) <br/> ![image](https://github.com/user-attachments/assets/d8b1d674-202f-47c5-9b7a-42baff27c7d6)
+> 효도하는 것이 부담으로 다가오기보다 남들에게 기분 좋게 자랑 할 수 있는 사회가 될 것으로 기대합니다. <br/> Made By DU HyodorBros.(SEVEN) <br/> ![image](https://github.com/user-attachments/assets/d8b1d674-202f-47c5-9b7a-42baff27c7d6)
 > 
 
 ## 조원 소개
@@ -29,6 +29,20 @@ Target SDK Version: 32
 - 부모님의 생일, 결혼기념일 등을 관리할 수 있는 D-Day 관리 기능(CRUD + 모바일 상단 바에 고정)
 - 부모님의 선물내용, 고민 등을 공유할 수 있는 커뮤니티 기능(회원가입 & 로그인)
 - 커뮤니티 내 게시물 업로드(CRUD), 신고 게시판(CRUD), 질문 게시판(CRUD) 기능
+>
+
+## 주요 화면 
+|**로딩 화면**|**메인 화면1(D-Day)**|**수정 화면(D-Day)**|
+|:---:|:---:|:---:|
+| <img width="329" alt="HyodorBros." src=""> | <img width="329" alt="HyodorBros." src="">| <img width="329" alt="HyodorBros." src="">
+
+|**로그인(커뮤니티)**|**회원가입(커뮤니티)**|**비밀번호 재설정(커뮤니티)**|
+|:---:|:---:|:---:|
+| <img width="329" alt="HyodorBros." src=""> | <img width="329" alt="HyodorBros." src="">| <img width="329" alt="HyodorBros." src="">
+
+|**메인 화면2(커뮤니티)**|**질문 게시판(커뮤니티)**|**신고 게시판(커뮤니티)**|
+|:---:|:---:|:---:|
+| <img width="329" alt="HyodorBros." src=""> | <img width="329" alt="HyodorBros." src="">| <img width="329" alt="HyodorBros." src="">
 >
 
 ## 향후 일정
