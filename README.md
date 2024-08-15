@@ -32,9 +32,9 @@ Target SDK Version: 32
 >
 
 ## 주요 화면 
-|**로딩 화면**|**메인 화면1(D-Day)**|**설정 & 수정 화면(D-Day)**|
-|:---:|:---:|:---:|
-| <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/a45d9254-af2f-4c8f-8534-6a28f181a8a0"> | <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/d89311cd-f2b9-4648-9a58-7bef64981216">| <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/cf66a1aa-bf84-4d28-a04a-2e9f10a7bd99">
+|**로딩 화면**|**메인 화면1(D-Day)**|**설정 & 수정 화면(D-Day)**|**상단 바 고정(D-Day)**|
+|:---:|:---:|:---:|:---:|
+| <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/a45d9254-af2f-4c8f-8534-6a28f181a8a0"> | <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/d89311cd-f2b9-4648-9a58-7bef64981216">| <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/cf66a1aa-bf84-4d28-a04a-2e9f10a7bd99">| <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/7ddef9ad-c25c-48f5-9ebf-cc633f9bbc23">
 
 |**로그인(커뮤니티)**|**회원가입(커뮤니티)**|**비밀번호 재설정(커뮤니티)**|
 |:---:|:---:|:---:|
@@ -48,6 +48,8 @@ Target SDK Version: 32
 |:---:|
 | <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/5f406338-074b-43a5-95fd-62dd6fffd58f"> |
 >
+
+
 
 ## 향후 일정
 - 선물 추천해주는 기능 추가 구현(기능 & UI 구현 완료)
