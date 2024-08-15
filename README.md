@@ -36,16 +36,14 @@ Target SDK Version: 32
 |:---:|:---:|:---:|:---:|
 | <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/a45d9254-af2f-4c8f-8534-6a28f181a8a0"> | <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/d89311cd-f2b9-4648-9a58-7bef64981216">| <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/cf66a1aa-bf84-4d28-a04a-2e9f10a7bd99">| <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/7ddef9ad-c25c-48f5-9ebf-cc633f9bbc23">
 
-|**로그인(커뮤니티)**|**회원가입(커뮤니티)**|**비밀번호 재설정(커뮤니티)**|
-|:---:|:---:|:---:|
-| <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/eb26ba2f-cd82-4bf3-b187-9582f5f2e840"> | <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/5cbe37c2-2d89-482d-8972-51808bac9a29">| <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/c86b3190-a51a-41d5-8a9a-708badf850d4">
+|**로그인(커뮤니티)**|**회원가입(커뮤니티)**|**비밀번호 재설정(커뮤니티)**|**비밀번호 재설정 이메일(커뮤니티)**|
+|:---:|:---:|:---:|:---:|
+| <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/eb26ba2f-cd82-4bf3-b187-9582f5f2e840"> | <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/5cbe37c2-2d89-482d-8972-51808bac9a29">| <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/c86b3190-a51a-41d5-8a9a-708badf850d4">| <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/59ff643e-6e14-4f1f-b8de-6980444493cb"> |
 
 |**메인 화면2(커뮤니티)**|**질문 게시판(커뮤니티)**|**신고 게시판(커뮤니티)**|**게시물 업로드(커뮤니티)**|
 |:---:|:---:|:---:|:---:|
 | <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/7ab11f6a-6576-4079-b10e-70e94244c600"> | <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/80b8ee82-41eb-4c75-a161-9c8ce815006f">| <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/f8c20038-2d6a-40f7-bd39-f69ff9fbe61f">| <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/5f406338-074b-43a5-95fd-62dd6fffd58f"> |
 >
-
-
 
 
 
