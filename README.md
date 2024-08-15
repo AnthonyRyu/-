@@ -45,7 +45,7 @@ Target SDK Version: 32
 | <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/7ab11f6a-6576-4079-b10e-70e94244c600"> | <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/80b8ee82-41eb-4c75-a161-9c8ce815006f">| <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/f8c20038-2d6a-40f7-bd39-f69ff9fbe61f">| <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/5f406338-074b-43a5-95fd-62dd6fffd58f"> |
 >
 
-## 향후 일정
+## 향후 개선 사항
 - 선물 추천해주는 기능 추가 구현(기능 & UI 구현 완료)
 - 메인화면 상단 바와 D-day알림 사이에 현재 날짜 및 시간 보여주는 위젯 구현
 - D-Day 음력 계산 기능 적용
