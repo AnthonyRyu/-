@@ -43,6 +43,10 @@ Target SDK Version: 32
 |**메인 화면2(커뮤니티)**|**질문 게시판(커뮤니티)**|**신고 게시판(커뮤니티)**|
 |:---:|:---:|:---:|
 | <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/7ab11f6a-6576-4079-b10e-70e94244c600"> | <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/80b8ee82-41eb-4c75-a161-9c8ce815006f">| <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/f8c20038-2d6a-40f7-bd39-f69ff9fbe61f">
+
+|**게시물 업로드(커뮤니티)**|
+|:---:|
+| <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/5f406338-074b-43a5-95fd-62dd6fffd58f"> |
 >
 
 ## 향후 일정
