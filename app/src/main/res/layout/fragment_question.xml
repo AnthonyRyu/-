@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="viewModel"
+            type="com.example.hyodorbros.ui.community.question.QuestionViewModel" />
+    </data>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:backgroundTint="#FF0000">
+
+        <include
+            android:id="@+id/container_toolbar"
+            layout="@layout/view_toolbar" />
+
+        <ProgressBar
+            android:id="@+id/progressbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/container_toolbar"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <EditText
+                android:id="@+id/reportEditText"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:hint="제목"
+                android:inputType="textPersonName"
+                android:text="@={viewModel.inputTitleLiveData}" />
+
+            <EditText
+                android:id="@+id/reportEditText2"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:ems="10"
+                android:gravity="top"
+                android:hint="내용"
+                android:inputType="textMultiLine"
+                android:text="@={viewModel.inputContentLiveData}" />
+
+            <Button
+                android:id="@+id/btn_reportupload"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#B3B2B2"
+                android:onClick="@{()->viewModel.question()}"
+                android:text="확인"
+                android:textColor="#000000"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:id="@+id/contentsLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:lineSpacingExtra="10dp"
+                    android:text="*문의 접수 전 해당 내용을 확인해주세요*\n1. 해당 페이지는 궁금하신 점이나 개선 및 불평사항들을 접수하는 페이지 입니다.
+                    \n2. 신고를 원하시는 경우 메인 화면에 신고 버튼을 눌러 신고 접수를 해주시길 바랍니다.
+                    \n3. 욕설 및 비하발언 등 문의 사항과 관련없는 내용들은 자동으로 접수가 취소 됩니다.
+                    \n- 욕설/비하발언/인격모독 등 수위가 심할 경우 금지사항 기준에 근거 형사 처벌을 받을 수도 있습니다.
+                    \n4. 접수하신 문의사항은 확인 후 빠른 시일내에 이메일을 통해 답변을 드리겠습니다."
+                    android:textColor="@color/black"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+</layout>

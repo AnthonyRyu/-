@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_community.xml"
+    app:startDestination="@id/frg_login">
+
+    <fragment
+        android:id="@+id/frg_login"
+        android:name="com.example.hyodorbros.ui.community.login.LoginFragment"
+        tools:layout="@layout/fragment_login">
+
+        <action
+            android:id="@+id/action_frg_login_to_frg_main"
+            app:destination="@id/frg_main" />
+
+        <action
+            android:id="@+id/action_frg_login_to_frg_register"
+            app:destination="@id/frg_register" />
+
+        <action
+            android:id="@+id/action_frg_login_to_frg_find_pass"
+            app:destination="@id/frg_find_pass" />
+
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/frg_find_pass"
+        android:name="com.example.hyodorbros.ui.community.findpass.FindPassFragment"
+        tools:layout="@layout/fragment_find_pass" />
+
+
+    <fragment
+        android:id="@+id/frg_register"
+        android:name="com.example.hyodorbros.ui.community.register.RegisterFragment"
+        tools:layout="@layout/fragment_register">
+
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/frg_main"
+        android:name="com.example.hyodorbros.ui.community.main.CommunityMainFragment"
+        tools:layout="@layout/fragment_community_main">
+
+        <action
+            android:id="@+id/action_frg_main_to_frg_report"
+            app:destination="@id/frg_report" />
+
+        <action
+            android:id="@+id/action_frg_main_to_frg_notification"
+            app:destination="@id/frg_notification" />
+
+
+        <action
+            android:id="@+id/action_frg_main_to_frg_question"
+            app:destination="@id/frg_question" />
+
+        <action
+            android:id="@+id/action_frg_main_to_frg_board"
+            app:destination="@id/frg_board" />
+
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/frg_notification"
+        android:name="com.example.hyodorbros.ui.community.notification.NotificationFragment"
+        tools:layout="@layout/fragment_notification" />
+
+
+    <fragment
+        android:id="@+id/frg_report"
+        android:name="com.example.hyodorbros.ui.community.report.ReportFragment"
+        tools:layout="@layout/fragment_report">
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/frg_question"
+        android:name="com.example.hyodorbros.ui.community.question.QuestionFragment"
+        tools:layout="@layout/fragment_question"></fragment>
+
+    <fragment
+        android:id="@+id/frg_board"
+        android:name="com.example.hyodorbros.ui.community.board.BoardFragment"
+        tools:layout="@layout/fragment_board">
+
+        <action
+            android:id="@+id/action_frg_board_to_frg_board_add"
+            app:destination="@id/frg_board_add" />
+
+        <action
+            android:id="@+id/action_frg_board_to_frg_board_detail"
+            app:destination="@id/frg_board_detail" />
+
+        <action
+            android:id="@+id/action_frg_board_to_frg_board_update"
+            app:destination="@id/frg_board_update" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/frg_board_add"
+        android:name="com.example.hyodorbros.ui.community.board.add.BoardAddFragment"
+        tools:layout="@layout/fragment_board_add" />
+
+    <fragment
+        android:id="@+id/frg_board_detail"
+        android:name="com.example.hyodorbros.ui.community.board.detail.BoardDetailFragment"
+        tools:layout="@layout/fragment_board_detail" />
+
+
+    <fragment
+        android:id="@+id/frg_board_update"
+        android:name="com.example.hyodorbros.ui.community.board.update.BoardUpdateFragment"
+        tools:layout="@layout/fragment_board_update" />
+
+</navigation>

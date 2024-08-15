@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_dday.xml"
+    app:startDestination="@id/frg_main">
+
+
+    <fragment
+        android:id="@+id/frg_main"
+        android:name="com.example.hyodorbros.ui.dday.main.DDayMainFragment"
+        tools:layout="@layout/fragment_d_day_main">
+
+        <action
+            android:id="@+id/action_frg_main_to_frg_add"
+            app:destination="@id/frg_add" />
+
+        <action
+            android:id="@+id/action_frg_main_to_frg_update"
+            app:destination="@id/frg_update" />
+
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/frg_add"
+        android:name="com.example.hyodorbros.ui.dday.add.DDayAddFragment"
+        tools:layout="@layout/fragment_d_day_add" />
+
+
+    <fragment
+        android:id="@+id/frg_update"
+        android:name="com.example.hyodorbros.ui.dday.update.DDayUpdateFragment"
+        tools:layout="@layout/fragment_d_day_update" />
+
+
+</navigation>
