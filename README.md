@@ -34,7 +34,7 @@ Target SDK Version: 32
 ## 주요 화면 
 |**로딩 화면**|**메인 화면1(D-Day)**|**수정 화면(D-Day)**|
 |:---:|:---:|:---:|
-| <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/a45d9254-af2f-4c8f-8534-6a28f181a8a0)"> | <img width="329" alt="HyodorBros." src="">| <img width="329" alt="HyodorBros." src="">
+| <img width="329" alt="HyodorBros." src="https://github.com/user-attachments/assets/a45d9254-af2f-4c8f-8534-6a28f181a8a0"> | <img width="329" alt="HyodorBros." src="">| <img width="329" alt="HyodorBros." src="">
 
 |**로그인(커뮤니티)**|**회원가입(커뮤니티)**|**비밀번호 재설정(커뮤니티)**|
 |:---:|:---:|:---:|
